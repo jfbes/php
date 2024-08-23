@@ -1,0 +1,10 @@
+{
+    "url": "https://raw.githubusercontent.com/jfbes/php/main/xss.yaml",
+    "urls": [{
+        "url": "https://raw.githubusercontent.com/jfbes/php/main/xss.yaml",
+        "name": "Foo"
+    },{
+        "url": "https://raw.githubusercontent.com/jfbes/php/main/test2.yml",
+        "name": "Foo2"
+    }]
+}
