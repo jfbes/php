@@ -4,7 +4,7 @@
         "url": "https://raw.githubusercontent.com/jfbes/php/main/xss.yaml",
         "name": "Foo"
     },{
-        "url": "https://raw.githubusercontent.com/jfbes/php/main/test2.yml",
+        "url": "https://raw.githubusercontent.com/jfbes/php/main/test2.yaml",
         "name": "Foo2"
     }]
 }
