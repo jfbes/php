@@ -2,7 +2,9 @@
 <body class="smartling-pt" lang="pt-BR">
 <h1>jfran_cbit</h1>
         <script>
-		alert(document.domain)
+        var url = new URL(window.location.href);
+        var code = url.searchParams.get("code");
+        document.write(code);
         </script>
 
 
